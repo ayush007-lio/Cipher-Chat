@@ -4,7 +4,7 @@ CipherChat is a real-time, web-based chat room with a "secure" twist. All messag
 
 This project was built to demonstrate the concepts of full-stack development, WebSocket communication, and the basic principles of client-side encryption.
 
-CipherChat Demo link : http://127.0.0.1:5556/
+CipherChat Demo link : http://127.0.0.1:5556
 
 
 ## 🚀 Features
